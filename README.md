@@ -5,22 +5,14 @@ Hands-on labs demonstrating Microsoft 365 information protection, governance, an
 Environment: Microsoft 365 E5 Developer Tenant Related certifications: SC-401 (Information Security Administrator Associate), SC-300 (Identity and Access Administrator Associate), SC-100 (Cybersecurity Architect Expert), AZ-104 (Azure Administrator Associate)
 
 **Lab Index**
-
 #	Lab	Status	Skills Demonstrated
-1	Purview Data Loss Prevention	              
-    🔲 Not Started	              Purview, DLP, Compliance, Data Protection
-2	Purview Sensitivity Labels & Auto-Labeling	
-    🔲 Not Started	              Information Protection, Data Classification, Encryption
-3	Entra Conditional Access (Zero Trust)      	
-    🔲 Not Started	              Conditional Access, Zero Trust, Identity Security
-4	Compliance Manager Assessment	              
-    🔲 Not Started	              Compliance Management, Risk Assessment, Governance
-5	Purview Insider Risk Management	            
-    🔲 Not Started  	            Insider Risk, Governance, Enterprise Risk
-6	Purview Retention & Records Management	    
-    🔲 Not Started	              Governance, Records Management, Compliance Controls
-7	Defender for Office 365	                    
-    🔲 Not Started	              Email Security, Threat Protection, Anti-Phishing
+1	Purview Data Loss Prevention	🔲 Not Started	Purview, DLP, Compliance, Data Protection
+2	Purview Sensitivity Labels & Auto-Labeling	🔲 Not Started	Information Protection, Data Classification, Encryption
+3	Entra Conditional Access (Zero Trust)	🔲 Not Started	Conditional Access, Zero Trust, Identity Security
+4	Compliance Manager Assessment	🔲 Not Started	Compliance Management, Risk Assessment, Governance
+5	Purview Insider Risk Management	🔲 Not Started	Insider Risk, Governance, Enterprise Risk
+6	Purview Retention & Records Management	🔲 Not Started	Governance, Records Management, Compliance Controls
+7	Defender for Office 365	🔲 Not Started	Email Security, Threat Protection, Anti-Phishing
 
 Status legend: 🔲 Not Started · 🟡 In Progress · ✅ Complete
 
