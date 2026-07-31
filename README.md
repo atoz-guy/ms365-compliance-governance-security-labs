@@ -7,7 +7,7 @@ Environment: Microsoft 365 E5 Developer Tenant Related certifications: SC-401 (I
 **Lab Index**
 
 #	Lab	Status	Skills Demonstrated
-1	Purview Data Loss Prevention	              🔲 Not Started	  Purview, DLP, Compliance, Data Protection
+1	Purview Data Loss Prevention	                    🔲 Not Started	  Purview, DLP, Compliance, Data Protection
 2	Purview Sensitivity Labels & Auto-Labeling	🔲 Not Started	  Information Protection, Data Classification, Encryption
 3	Entra Conditional Access (Zero Trust)      	🔲 Not Started	  Conditional Access, Zero Trust, Identity Security
 4	Compliance Manager Assessment	              🔲 Not Started	  Compliance Management, Risk Assessment, Governance
