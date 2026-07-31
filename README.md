@@ -23,4 +23,4 @@ Content classification            	#2
 Data loss prevention              	#1
 Governance                        	#4, #5, #6
 Protection                        	#1, #2, #3, #7
-Enterprise risk evaluation        	#4, #5
+Enterprise risk evaluation        	#4, #5 
