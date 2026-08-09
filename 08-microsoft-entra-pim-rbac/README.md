@@ -1,4 +1,4 @@
-# Lab: Baseline Identity Hardening with Microsoft Entra Security Defaults
+# Lab: Baseline Identity Hardening with Microsoft Entra Security Defaults(GTG)
 
 ## Objective
 Implement baseline Zero Trust security policies on a Microsoft Entra ID free tenant to enforce mandatory Multi-Factor Authentication (MFA) and block legacy authentication protocols.
