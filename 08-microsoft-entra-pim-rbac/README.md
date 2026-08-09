@@ -4,13 +4,13 @@
 Implement baseline Zero Trust security policies on a Microsoft Entra ID free tenant to enforce mandatory Multi-Factor Authentication (MFA) and block legacy authentication protocols.
 
 ## Execution
-1. **Navigate to Properties:** Opened the [Microsoft Azure portal](https://portal.azure.com/), went to **Microsoft Entra ID**, and selected **Properties** from the management menu.
-2. **Configure Security Defaults:** Scrolled to the **Security defaults** section and verified that the tenant protection baseline was toggled to **Enabled**.
-3. **Global Enforcement:** Ensured all administrative and standard user accounts are automatically forced to register for and utilize MFA upon sign-in.
+1. **Navigate to Properties:** You open up the Microsoft Azure portal, jump straight into **Microsoft Entra ID**, and click on **Properties** right from the management menu on the side. [Microsoft Azure portal](https://portal.azure.com/)
+2. **Configure Security Defaults:** You scroll down to find the **Security defaults** section and flip the tenant protection baseline toggle over to **Enabled**.
+3. **Global Enforcement:** You make sure that every single account in the directory—from regular standard users to top-level admins, is automatically forced to register for and start using multi-factor authentication every time they sign in.
 
 ## Validation & Evidence
-* **Baseline Enforcement Verification:** Confirmed via the tenant properties dashboard that the organization is actively protected by security defaults.
-* **Protocol Restriction:** Legacy authentication protocols are automatically blocked across the directory.
+* **Baseline Enforcement Verification:** You take a close look at the tenant properties dashboard and confirm that the whole organization is officially protected by security defaults.
+* **Protocol Restriction:** You lock down the entire directory so that outdated legacy authentication methods are completely blocked out.
 
 ![Security Defaults Enabled](Default%20directory%20screen%20shot.png)
 
