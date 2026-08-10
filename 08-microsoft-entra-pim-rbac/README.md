@@ -21,7 +21,7 @@ On a free Microsoft Entra ID tenant, advanced identity tools like Privileged Ide
 - ✅ Legacy authentication protocols fully blocked across the directory
 
 ## Evidence
-
-![Security Defaults enabled on Microsoft Entra ID tenant, showing tenant properties dashboard confirming protection status](./entra-security-defaults-evidence.png)
-
 *Email and tenant identifiers blurred for privacy.*
+
+<img width="1920" height="1128" alt="Entra Security Defaults evidence" src="https://github.com/user-attachments/assets/4238395f-977b-426a-b6ed-17605762a755" />
+
